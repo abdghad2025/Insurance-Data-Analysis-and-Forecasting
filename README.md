@@ -34,3 +34,11 @@ pip install -r requirements.
 - Exploratory Data Analysis (EDA): Visualize and understand the data.
 - Modeling: Train different machine learning models such as Linear Regression, Decision Trees, and KMeans Clustering.
 - Evaluation: Assess the models' performance using various metrics.
+
+## Models
+The project implements and evaluates the following models:
+
+- Linear Regression: For predicting numerical financial outcomes.
+- Decision Tree Regressor: For regression tasks with more interpretability.
+- KMeans Clustering: For customer segmentation and risk identification.
+- Time-Series Forecasting: For predicting future trends based on historical data.
