@@ -25,7 +25,8 @@ This project leverages machine learning algorithms for financial forecasting, ri
 To run this project, you need to have Python 3.x and the required libraries installed. You can install the dependencies using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.
+```
 
 ## Steps Involved
 - Data Collection: Import and load the insurance dataset.
